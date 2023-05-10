@@ -1,9 +1,9 @@
 
 ![Profle header](https://github.com/ramchandra-guthula/ramchandra-guthula/blob/main/github-header-image.png)
 
-<mark align="left">DevOps Architect/SiteReliabiltyEnginer strong experince in design and implementation of enterprise applications with cloud(AWS/AZURE), Containerzation(Docker/Kubernetes) and onpremise datacenters, Have architectured application platforms and frameworks to create consistent, reliable, verifiable, and automatic management of applications and infrastructure between non-production and production environments </mark>
+<mark align="left">DevOps/Cloud Architect, utilizing my extensive experience in designing, implementing, and optimizing enterprise-scale solutions across cloud and on-premise environments. My goal is to develop and deploy robust and innovative application platforms that leverage the latest in AWS technologies, containerization, and infrastructure-as-code principles. Through collaboration, continuous improvement, and the implementation of best practices, I aspire to drive digital transformation and operational efficiency within organizations, fostering a culture of innovation and high performance that contributes to the overall success and growth of the company. </mark>
 
-- 🌱 I’m currently learning fullstack frameworks 
+- 🌱 I’m currently learning python fullstack frameworks 
 
 - 💬 Ask me about **AWS, Kubernetes, Ansible, Python, Terraform, Docker and Jenkins**
 
@@ -12,14 +12,14 @@
 ### Technical Skills
 | Technology    | Tools         |       
 | ------------- | ------------- |
-| `Public cloud` | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"  alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://chroniclesofai.com/content/images/2021/04/gcp.png"  alt="GCP" width="40" height="40"/> </a>  |
+| `Public cloud` | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"  alt="azure" width="40" height="40"/> </a> |
 | `Version control` | Github, Gitlab  |
-| `Continuous Integration` | Jenkins, Cloudbees, GitHub Actions, AWS CodePipeline   |
+| `Continuous Integration` | Jenkins, Cloudbees, GitHub Actions, AWS CodePipeline, GitLab   |
 | `Continuous Delivery` | AWS CodeDeploy, Ansible, Chef, Terraform, CloudFormation  |
 | `Scripting` | Python, Bash/shell, Groovy  |
 | `Monitoring` | Grafana, Prometheus, Elasticsearch, Kibana, logstash, Nagios, Icinga2   |
-| `Code Quality` | SonarQube, Checkmarx   |
-| `Containerization` | Kubernetes, Docker, HELM  |
+| `Code Quality` | SonarQube, Checkmarx, Cycode   |
+| `Containerization` | Kubernetes, Docker, HELM, Packer  |
 | `Service Mesh` | Linkerd, Istio  |
 
 
