@@ -1,5 +1,5 @@
 
-![Profle header](https://github.com/ramchandra-guthula/ramchandra-guthula/blob/main/github-header-image.png)
+![Profle header](https://github.com/ramchandra-guthula/ramchandra-guthula/blob/main/github-header-image1.png)
 
 <mark align="left">DevOps/Cloud Architect, utilizing my extensive experience in designing, implementing, and optimizing enterprise-scale solutions across cloud and on-premise environments. My goal is to develop and deploy robust and innovative application platforms that leverage the latest in AWS technologies, containerization, and infrastructure-as-code principles. Through collaboration, continuous improvement, and the implementation of best practices, I aspire to drive digital transformation and operational efficiency within organizations, fostering a culture of innovation and high performance that contributes to the overall success and growth of the company. </mark>
 
