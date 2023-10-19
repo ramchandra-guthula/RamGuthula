@@ -12,13 +12,13 @@
 ### Technical Skills
 | Technology    | Tools         |       
 | ------------- | ------------- |
-| `Public cloud` | <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png"  alt="azure" width="40" height="40"/> </a> |
+| `Public cloud` | AWS, Azure  |
 | `Version control` | Github, Gitlab  |
 | `Continuous Integration` | Jenkins, Cloudbees, GitHub Actions, AWS CodePipeline, GitLab   |
 | `Continuous Delivery` | AWS CodeDeploy, Ansible, Chef, Terraform, CloudFormation  |
 | `Scripting` | Python, Bash/shell, Groovy  |
-| `Monitoring` | Grafana, Prometheus, Elasticsearch, Kibana, logstash, Nagios, Icinga2   |
-| `Code Quality` | SonarQube, Checkmarx, Cycode   |
+| `Monitoring` | Grafana, Prometheus, Elasticsearch, Kibana, logstash, Nagios, Icinga2, Datadog   |
+| `Code Quality` | SonarQube, Checkmarx, Cycode,snyk   |
 | `Containerization` | Kubernetes, Docker, HELM, Packer  |
 | `Service Mesh` | Linkerd, Istio  |
 
