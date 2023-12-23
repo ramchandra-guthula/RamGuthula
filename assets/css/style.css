@@ -186,6 +186,13 @@ a.white-link:hover {
   color: #ffffff;
 }
 
+a.white-link {
+  color: #ffffff;
+  text-decoration: underline !important;
+  font-size: 0.8rem !important; 
+  font-weight: lighter !important;
+}
+
 .icon-box {
   position: relative;
   background: var(--border-gradient-onyx);
